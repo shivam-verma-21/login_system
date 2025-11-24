@@ -1,0 +1,11 @@
+<?php
+$server = "localhost";
+$username = "root";
+$password = "";
+$database = "users";
+$con = mysqli_connect("$server","$username","$password","$database");
+if(!$con){
+    die("The database is no connected".mysqli_connect_error());
+}
+// echo "Successfully connected";
+?>
