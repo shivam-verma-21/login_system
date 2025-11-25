@@ -96,7 +96,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             <?php 
             if($showError){
 
-              echo '<small style="color: red;"> If you do not have account please click on the sign up button</small>';
+              echo ' <small style="color: red;"> If you do not have account please click on the sign up button</small> ';
             }
             ?>
             <div class="col-12">
