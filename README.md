@@ -14,7 +14,3 @@ Features: user registration with password hashing, login + session management, p
 - 🚫 Protected dashboard/welcome page (redirects if not logged in)  
 - 📱 Responsive UI using Bootstrap 5  
 - 🧾 Simple and clear code — easy to customize
-
----
-
-## 📁 Repo structure (example)
